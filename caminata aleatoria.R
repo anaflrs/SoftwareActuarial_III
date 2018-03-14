@@ -19,3 +19,5 @@ while (z>=3 && z<=10 ) {
 print(x); print("pasos")
 k[x+1]<- z
 k
+
+
