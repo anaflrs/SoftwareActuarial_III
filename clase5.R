@@ -97,6 +97,7 @@ y <- if(x>3) {
  
  #binomial en probabilidad: número de aciertos en una cierta 
  #cantidad de intentos
+ 
  set.seed(1)
  z <- 5 
  x <- 0
