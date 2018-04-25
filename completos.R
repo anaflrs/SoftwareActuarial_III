@@ -16,3 +16,4 @@ completos <- function(direc, id = 1:332){
   data.frame(id=id,nobs=nobs)
 }
 completos("specdata",id=30:25)
+#nc
