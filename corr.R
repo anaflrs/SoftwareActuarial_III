@@ -1,6 +1,6 @@
 setwd("C:/Users/anav_/OneDrive/Escritorio/specdata")
 direc <- "C:/Users/anav_/OneDrive/Escritorio/specdata"
-
+#nuevo commit
 corr <- function(direc, horizonte=0){
   correlacion <- vector("numeric",0)
   conta <- 1
