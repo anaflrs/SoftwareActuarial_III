@@ -21,5 +21,5 @@ mediacontaminante <- function(direc, contam, id = 1:332){
   promedio
 }
  mediacontaminante(,"sulfate",1:332)
-
+#commit
  
