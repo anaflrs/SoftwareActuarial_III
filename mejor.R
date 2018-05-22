@@ -34,7 +34,7 @@ mejor <- function(estado,resultado){
     
   }
   else {
-    final <- md2[- grep("Not", md2[,2]),]
+    final <- md2[-grep("Not", md2[,2]),]
     elec <- final[order(as.numeric(final[,2])),]
     elec2 <- elec[which(elec[,2] == elec[1,2]),]
     es <- elec2[order(elec2[,1]),]
